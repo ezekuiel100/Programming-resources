@@ -1,6 +1,9 @@
-# Recursos de Estudo
 
-Este README reúne recursos úteis para aprender Assembly, C e Go. Os vídeos listados são organizados por linguagem e incluem uma breve descrição.
+# Study Resources (Recursos de Estudo)
+
+This README compiles useful resources for learning Assembly, C, Go, and JavaScript.
+
+Este README reúne recursos úteis para aprender Assembly, C ,Go e javascript.
 
 ---
 
@@ -47,4 +50,11 @@ Este README reúne recursos úteis para aprender Assembly, C e Go. Os vídeos li
 - **Tech With Tim**: [JavaScript fundamentals with real-world examples](https://www.youtube.com/watch?v=TjjKcgtlsY8&ab_channel=TechWithTim)
 - **SuperSimpleDev**: [Learn JavaScript for beginners in simple steps](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 - **Bro Code**: [Curso prático de JavaScript para criar aplicações reais](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+
+
+
+
+
+
+
 
